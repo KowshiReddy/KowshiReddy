@@ -1,8 +1,11 @@
-
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif" alt="Master Head Image">
 <h1 align="center">Bonjour! I'm Kowshika Reddy Kandanoolu</h1>
-The Data Alchemist from the United States, a passionate data science student at the University at Buffalo, driven by a fervent desire to unravel the mysteries of data. My internship experience in India ignited my commitment to data science, enhancing my skills for impactful contributions. Proficient in data structures, I thrive on challenges, seeking new adventures in data science and development.
+<p style="font-size: 14px;">The Data Alchemist from the United States, a passionate data science student at the <strong>University at Buffalo</strong>, driven by a fervent desire to unravel the mysteries of data. My internship experience in India ignited my commitment to data science, enhancing my skills for impactful contributions.</p>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif">
+<p style="font-size: 14px;">Proficient in data structures, I thrive on challenges, seeking new adventures in data science and development.</p>
+
+
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif">
 
 - 🔭 Currently working on **Data Analysis and it's deployment**
 
