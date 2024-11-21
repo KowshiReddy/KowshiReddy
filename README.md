@@ -1,5 +1,5 @@
 <img width= "900" src="https://miro.medium.com/v2/resize:fit:1400/1*e4HBnH84BpwLCFr78xvfjg.gif" alt="Master Head Image">
-<h1 align="center">Bonjour! I'm Kowshika Reddy Kandanoolu</h1>
+<h1 align="center">Bonjour! </h1>
 <p style="font-size: 14px;">The Data Alchemist from the United States, a passionate data science student at the <strong>University at Buffalo</strong>, driven by a fervent desire to unravel the mysteries of data. My internship experience in India ignited my commitment to data science, enhancing my skills for impactful contributions.</p>
 
 <p style="font-size: 14px;">Proficient in data structures, I thrive on challenges, seeking new adventures in data science and development.</p>
