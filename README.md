@@ -18,7 +18,6 @@ Here’s a professional and concise GitHub README focusing on what you do, witho
 
 I am a passionate **Data Scientist** and **Software Developer** with expertise in **machine learning**, **distributed systems**, and **cloud computing**. My work revolves around building scalable, efficient, and reliable solutions to tackle complex data challenges across industries.  
 
----
 
 ## 💡 **What I Do**  
 - **Data Science & Machine Learning**: Design and implement advanced algorithms to extract actionable insights and improve decision-making.  
@@ -47,20 +46,8 @@ I am a passionate **Data Scientist** and **Software Developer** with expertise i
 ---
 
 ## 🌐 **Connect With Me**  
-
-<h1 align="left">Connect with me:</h1>
-<body>
-    <h3>LinkedIn Profile</h3>
-    <p>Connect with me on LinkedIn: 
-        <a href="https://www.linkedin.com/in/k-kowshi-r/" target="_blank">
-            <img width="20" src="https://cdn2.iconfinder.com/data/icons/social-media-with-original-colors/256/icon-linkedin.png" alt="LinkedIn Icon" class="icon">
-        </a>
-    </p>
-    <h3>Email</h3>
-    <p>Feel free to reach out: 
-        <a href="mailto:kkowshir@gmail.com">kkowshir@gmail.com</a>
-    </p>
-</body>
+- 💼 [LinkedIn](https://www.linkedin.com/in/k-kowshi-r/)  
+- ✉️ [Email](mailto:kkowshir@gmail.com)  
 
 
 </p>
