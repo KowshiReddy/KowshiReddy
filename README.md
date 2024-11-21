@@ -5,7 +5,7 @@
 <p style="font-size: 14px;">Proficient in data structures, I thrive on challenges, seeking new adventures in data science and development.</p>
 
 
-<img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1599d7107019725.5f9d3c7bae636.gif">
+<img align="right" alt="Coding" width="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1599d7107019725.5f9d3c7bae636.gif">
 
 # Hi, I'm Kowshi R K 👋  
 
