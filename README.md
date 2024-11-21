@@ -7,10 +7,6 @@
 
 <img align="right" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1599d7107019725.5f9d3c7bae636.gif">
 
-Here’s a professional and concise GitHub README focusing on what you do, without mentioning specific projects:
-
----
-
 # Hi, I'm Kowshi R K 👋  
 
 🎓 **Master's Student in Data Science**  
@@ -26,8 +22,6 @@ I am a passionate **Data Scientist** and **Software Developer** with expertise i
 - **Data Engineering**: Build robust ETL workflows and data pipelines to process and analyze large-scale datasets effectively.  
 - **Visualization & Reporting**: Create interactive dashboards and visualization tools to communicate insights clearly and drive impact.  
 
----
-
 ## 🛠️ **Technical Expertise**  
 - **Programming**: Python, Java, C, C++, R, SQL  
 - **Big Data**: Apache Hadoop, Apache Spark  
@@ -35,15 +29,11 @@ I am a passionate **Data Scientist** and **Software Developer** with expertise i
 - **Visualization Tools**: Power BI, Tableau  
 - **Frameworks**: Flask, FastAPI, REST API  
 
----
-
 ## 🌟 **Core Values**  
 - **Innovation**: Continuously explore and apply emerging technologies to solve real-world problems.  
 - **Efficiency**: Focus on optimizing workflows and enhancing performance in every solution I build.  
 - **Collaboration**: Believe in the power of teamwork to deliver impactful results.  
 - **Integrity**: Commit to creating reliable and ethical solutions that prioritize user needs and data security.  
-
----
 
 ## 🌐 **Connect With Me**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/k-kowshi-r/)  
