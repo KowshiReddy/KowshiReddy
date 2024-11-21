@@ -4,9 +4,6 @@
 
 <p style="font-size: 14px;">Proficient in data structures, I thrive on challenges, seeking new adventures in data science and development.</p>
 
-
-<img align="right" alt="Coding" width="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1599d7107019725.5f9d3c7bae636.gif">
-
 # Hi, I'm Kowshi R K 👋  
 
 🎓 **Master's Student in Data Science**  
@@ -35,7 +32,9 @@ I am a passionate **Data Scientist** and **Software Developer** with expertise i
 - **Collaboration**: Believe in the power of teamwork to deliver impactful results.  
 - **Integrity**: Commit to creating reliable and ethical solutions that prioritize user needs and data security.  
 
-## 🌐 **Connect With Me**  
+## 🌐 **Connect With Me**   
+
+<img align="center" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1599d7107019725.5f9d3c7bae636.gif">
 - 💼 [LinkedIn](https://www.linkedin.com/in/k-kowshi-r/)  
 - ✉️ [Email](mailto:kkowshir@gmail.com)  
 
