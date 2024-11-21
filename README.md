@@ -30,11 +30,11 @@ I am a passionate **Data Scientist** and **Software Developer** with expertise i
 - **Innovation**: Continuously explore and apply emerging technologies to solve real-world problems.  
 - **Efficiency**: Focus on optimizing workflows and enhancing performance in every solution I build.  
 - **Collaboration**: Believe in the power of teamwork to deliver impactful results.  
-- **Integrity**: Commit to creating reliable and ethical solutions that prioritize user needs and data security.  
+- **Integrity**: Commit to creating reliable and ethical solutions that prioritize user needs and data security.
+
+  <img align="center" alt="Coding" width="500" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1599d7107019725.5f9d3c7bae636.gif">
 
 ## 🌐 **Connect With Me**   
-
-<img align="center" alt="Coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1599d7107019725.5f9d3c7bae636.gif">
 - 💼 [LinkedIn](https://www.linkedin.com/in/k-kowshi-r/)  
 - ✉️ [Email](mailto:kkowshir@gmail.com)  
 
