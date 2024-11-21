@@ -47,23 +47,21 @@ I am a passionate **Data Scientist** and **Software Developer** with expertise i
 ---
 
 ## 🌐 **Connect With Me**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)  
-- ✉️ [Email](mailto:YourEmail@example.com)  
-
-Let’s innovate and transform ideas into solutions that matter! 🚀  
-
----
-
-This README highlights your professional expertise and skills without diving into specific projects, creating a polished impression for potential collaborators or recruiters visiting your GitHub profile. Replace the placeholders with your actual details.
-
-
 
 <h1 align="left">Connect with me:</h1>
 <body>
-    <h3>Linked Profile</h3>
-    <p>Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/kandanoolu-kowshika-reddy/"><img width="20" src="https://cdn2.iconfinder.com/data/icons/social-media-with-original-colors/256/icon-linkedin.png" alt="LinkedIn Icon" class="icon"></a></p>
+    <h3>LinkedIn Profile</h3>
+    <p>Connect with me on LinkedIn: 
+        <a href="https://www.linkedin.com/in/k-kowshi-r/" target="_blank">
+            <img width="20" src="https://cdn2.iconfinder.com/data/icons/social-media-with-original-colors/256/icon-linkedin.png" alt="LinkedIn Icon" class="icon">
+        </a>
+    </p>
+    <h3>Email</h3>
+    <p>Feel free to reach out: 
+        <a href="mailto:kkowshir@gmail.com">kkowshir@gmail.com</a>
+    </p>
 </body>
-</html>
+
 
 </p>
 
