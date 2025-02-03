@@ -33,6 +33,6 @@ I am a passionate **Data Scientist** with a strong foundation in **AI/ML develop
   </a>
   
   <!-- LinkedIn Icon -->
-  <a href="www.linkedin.com/in/kowshika-reddy-37a461201">
+  <a href="https://www.linkedin.com/in/kowshika-reddy/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
